@@ -1,2 +1,2 @@
 # Spring-Products-Api
-The api i made use products
+The api i made use rest apis
